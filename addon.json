@@ -1,0 +1,25 @@
+{
+	"title"		:	"Super Pedobear Proxy",
+	"type"		:	"ServerContent",
+	"ignore"	:
+	[
+		"*.svn*",
+		"*.git*",
+		"*.psd",
+		"*.psb",
+		"*.xcf",
+		"*.vcproj",
+		"*.md",
+		"*.bat",
+		"*.cmd",
+		"*.sh",
+		"*.py*",
+		"*.vmf",
+		"*.gma",
+		"desktop.ini",
+		"Thumbs.db",
+		"CODEOWNERS",
+		"LICENSE",
+		"glualint.json"
+	]
+}
